@@ -1,6 +1,6 @@
 # PEC3: Manovich Reloaded
 
-**Autor:** Favio Imperial] <br>
+**Autor:** Favio Imperial <br>
 **Asignatura:** Cultura Digital <br>
 **Actividad:** PEC 3 <br>
 **Repositorio:** [PEC3_Manovich_Reloaded](https://github.com/Emp1re5467/PEC3_Manovich_Reloaded)
