@@ -50,7 +50,7 @@ Finalmente, la dimensión de red social completa la hibridación. Las mecánicas
 ## Caso 2: Adobe Firefly — El lenguaje natural como herramienta de diseño
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/9/90/Pok%C3%A9mon_Go_AR_Mode%2C_Dec_2017.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" width="500" />
+  <img src="https://images.unsplash.com/photo-1740174459718-fdcc63ee3b4f?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="500" />
 </p>
 
 <p align="center">
