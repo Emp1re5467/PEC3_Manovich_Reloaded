@@ -73,7 +73,6 @@ Hay además una dimensión de remezcla profunda que afecta al régimen de autor�
 
 * Adobe Firefly: [https://firefly.adobe.com](https://firefly.adobe.com)
 * Adobe Generative Fill en Photoshop: [https://helpx.adobe.com/photoshop/using/generative-fill.html](https://helpx.adobe.com/photoshop/using/generative-fill.html)
-* Epstein, R., et al. (2023). Art and the science of generative AI. *Science*, 380(6650), 1110–1111.
 
 ---
 
@@ -101,8 +100,8 @@ Por ello, estos casos podrían formar parte de una actualización de *El softwar
 
 Para la elaboración de esta PEC se han tenido en cuenta los siguientes repositorios como recursos de referencia metodológica y de cultura colaborativa:
 
-* Lord of the Files: [https://github.com/WiredEnterprise/Lord-of-the-Files](https://github.com/WiredEnterprise/Lord-of-the-Files)
 * Metodología Crowdsourcing: [https://github.com/mgea/CCpapers/tree/main/MetodologiaCrowdsourcing](https://github.com/mgea/CCpapers/tree/main/MetodologiaCrowdsourcing)
+* * Lord of the Files: [https://github.com/WiredEnterprise/Lord-of-the-Files](https://github.com/WiredEnterprise/Lord-of-the-Files)
 
 Estos repositorios se incluyen como referencia metodológica porque la actividad propone trabajar desde una lógica de cultura compartida, escritura abierta y publicación en GitHub, siguiendo una filosofía cercana al crowdsourcing y a las prácticas colaborativas del desarrollo de software.
 
@@ -116,11 +115,10 @@ Estos repositorios se incluyen como referencia metodológica porque la actividad
 * Adobe Inc. (2024). *Generative Fill in Photoshop*. [https://helpx.adobe.com/photoshop/using/generative-fill.html](https://helpx.adobe.com/photoshop/using/generative-fill.html)
 * Adell, F. (2014). Remediación, multimedia e hibridación de los medios. *Mosaic*. [http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
 * Hjorth, L., & Richardson, I. (2017). Pokémon GO: Mobile media play, place-making, and the digital wayfarer. *Mobile Media & Communication*, 5(1), 3–14. [https://doi.org/10.1177/2050157916677861](https://doi.org/10.1177/2050157916677861)
-* Epstein, R., et al. (2023). Art and the science of generative AI. *Science*, 380(6650), 1110–1111. [https://doi.org/10.1126/science.adh4451](https://doi.org/10.1126/science.adh4451)
 * GitHub. *About repositories*. [https://docs.github.com/es/repositories/creating-and-managing-repositories/about-repositories](https://docs.github.com/es/repositories/creating-and-managing-repositories/about-repositories)
 
 ---
 
 ## Uso de herramientas de IA
 
-Para la elaboración de este documento se ha utilizado Claude (Anthropic) como herramienta de apoyo para resolver dudas sobre la estructura del trabajo, revisar la redacción, mejorar la claridad de algunas frases y orientar la organización del contenido en formato Markdown. No se ha utilizado para sustituir la reflexión personal ni para elaborar automáticamente el ensayo final. La selección de los casos, la interpretación de los conceptos de Manovich y la revisión final del texto corresponden al autor/a.
+Para la elaboración de este documento se ha utilizado GPT (Anthropic) como herramienta de apoyo para resolver dudas sobre la estructura del trabajo, revisar la redacción, mejorar la claridad de algunas frases y orientar la organización del contenido en formato Markdown. No se ha utilizado para sustituir la reflexión personal ni para elaborar automáticamente el ensayo final. La selección de los casos, la interpretación de los conceptos de Manovich y la revisión final del texto corresponden al autor.
