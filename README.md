@@ -101,7 +101,7 @@ Por ello, estos casos podrían formar parte de una actualización de *El softwar
 Para la elaboración de esta PEC se han tenido en cuenta los siguientes repositorios como recursos de referencia metodológica y de cultura colaborativa:
 
 * Metodología Crowdsourcing: [https://github.com/mgea/CCpapers/tree/main/MetodologiaCrowdsourcing](https://github.com/mgea/CCpapers/tree/main/MetodologiaCrowdsourcing)
-* * Lord of the Files: [https://github.com/WiredEnterprise/Lord-of-the-Files](https://github.com/WiredEnterprise/Lord-of-the-Files)
+* Lord of the Files: [https://github.com/WiredEnterprise/Lord-of-the-Files](https://github.com/WiredEnterprise/Lord-of-the-Files)
 
 Estos repositorios se incluyen como referencia metodológica porque la actividad propone trabajar desde una lógica de cultura compartida, escritura abierta y publicación en GitHub, siguiendo una filosofía cercana al crowdsourcing y a las prácticas colaborativas del desarrollo de software.
 
