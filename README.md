@@ -20,7 +20,7 @@ Siguiendo la lectura de Manovich, especialmente los capítulos 4 y 5 dedicados a
 ## Caso 1: Pokémon GO — El espacio urbano como nivel de juego
 
 <p align="center">
-  <img src="https://unsplash.com/es/fotos/persona-sosteniendo-un-telefono-inteligente-android-negro-aEKwSdX5pJU" width="500" />
+  <img src="https://images.unsplash.com/photo-1587573089283-f14c65841f75?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="500" />
 </p>
 
 <p align="center">
